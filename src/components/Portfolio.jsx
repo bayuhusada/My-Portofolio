@@ -3,8 +3,8 @@
 import Projects from "./Projects"
 import Hero from "./Hero"
 import About from "./About"
-import Skills from "./Skills"
 import Footer from "./Footer"
+import Skills from "./skills"
 
 
 export default function Portfolio() {
