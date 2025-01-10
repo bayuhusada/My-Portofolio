@@ -20,7 +20,7 @@ const About = () => {
         <h2 className="text-3xl font-bold mb-8 text-center" data-aos="fade-up">About Me</h2>
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="md:w-1/2 mb-8 md:mb-0" data-aos="fade-right">
-            <img src={img} alt="Profile" className="rounded-full mx-auto ml-5" />
+            <img src={img} alt="Profile" className="rounded-full mx-auto lg:ml-5" />
           </div>
           <div className="md:w-1/2" data-aos="fade-left">
             <p className="text-lg mb-4">
