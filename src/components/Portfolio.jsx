@@ -4,7 +4,7 @@ import Projects from "./Projects"
 import Hero from "./Hero"
 import About from "./About"
 import Footer from "./Footer"
-import Skills from "./skills"
+import Ahli from "./Ahli"
 
 
 export default function Portfolio() {
@@ -16,7 +16,7 @@ export default function Portfolio() {
       <Hero />
       <About />
       <Projects />
-      <Skills />
+      <Ahli/>
       <Footer />
     </div>
   )

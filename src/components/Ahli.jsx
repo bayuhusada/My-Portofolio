@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
 gsap.registerPlugin(ScrollTrigger)
 
-const Skills = () => {
+const Ahli = () => {
   const skillsRef = useRef(null)
 
   useEffect(() => {
@@ -43,5 +43,5 @@ const Skills = () => {
   )
 }
 
-export default Skills
+export default Ahli
 
