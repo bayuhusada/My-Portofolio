@@ -57,10 +57,11 @@ const Projects = () => {
             <h1 className='text-xl m-3 text-center w-40 p-1 outline outline-yellow-400 items-center shadow-[-7px_7px_0px_#bba62c] '>Rest Api Anime</h1>
           </div>
           <div className='gap-10' data-aos="fade-up">
-            <a href="https://api-anime-list.netlify.app/">
+            <a href="#">
             <img src={img6} alt="" className='rounded-3xl filter grayscale hover:filter-none duration-1000' />
             </a>
             <h1 className='text-xl m-3 text-center w-40 p-1 outline outline-yellow-400 items-center shadow-[-7px_7px_0px_#bba62c] '>Blog Website</h1>
+            
           </div>
 
        </div>
