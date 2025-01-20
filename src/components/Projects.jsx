@@ -7,7 +7,7 @@ import img1 from '../Images/chatbot.jpg'
 import img2 from '../Images/bawaslu.jpg'
 import img3 from '../Images/POS.jpg'
 import img4 from '../Images/rak.jpg'
-import img5 from '../Images/RestApi.jpg'
+import img5 from '../Images/Hnm.jpg'
 import img6 from '../Images/blog.jpg'
 
 
@@ -39,7 +39,7 @@ const Projects = () => {
             <h1 className='text-xl m-3 text-center w-40 p-1 outline outline-yellow-400 items-center shadow-[-7px_7px_0px_#bba62c] '>Pengaduan Bawaslu</h1>
           </div>
           <div className='gap-10' data-aos="fade-up">
-            <a href="#">
+            <a href="https://github.com/bayuhusada/kasir">
             <img src={img3} alt="" className='rounded-3xl filter grayscale hover:filter-none duration-1000' />
             </a>
             <h1 className='text-xl m-3 text-center w-40 p-1 outline outline-yellow-400 items-center shadow-[-7px_7px_0px_#bba62c] '>POS inventory system</h1>
@@ -51,13 +51,13 @@ const Projects = () => {
             <h1 className='text-xl m-3 text-center w-40 p-1 outline outline-yellow-400 items-center shadow-[-7px_7px_0px_#bba62c] '>Rak Buku</h1>
           </div>
           <div className='gap-10' data-aos="fade-up">
-            <a href="https://api-anime-list.netlify.app/">
+            <a href="https://hnm-cloning.vercel.app/">
             <img src={img5} alt="" className='rounded-3xl filter grayscale hover:filter-none duration-1000' />
             </a>
-            <h1 className='text-xl m-3 text-center w-40 p-1 outline outline-yellow-400 items-center shadow-[-7px_7px_0px_#bba62c] '>Rest Api Anime</h1>
+            <h1 className='text-xl m-3 text-center w-40 p-1 outline outline-yellow-400 items-center shadow-[-7px_7px_0px_#bba62c] '>H&M Clone</h1>
           </div>
           <div className='gap-10' data-aos="fade-up">
-            <a href="#">
+            <a href="https://github.com/bayuhusada/blog-nextjs">
             <img src={img6} alt="" className='rounded-3xl filter grayscale hover:filter-none duration-1000' />
             </a>
             <h1 className='text-xl m-3 text-center w-40 p-1 outline outline-yellow-400 items-center shadow-[-7px_7px_0px_#bba62c] '>Blog Website</h1>
